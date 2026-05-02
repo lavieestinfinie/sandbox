@@ -9,10 +9,7 @@
 
 - 📱 [MasterDnsVPN-GG-1.0.9-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-universal.apk) `45.5MB`
 
----
 
-
-### 📅 2026-05-02 17:05 IR
 - 🎬 [video_2026-05-02_03-28-40.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/video_2026-05-02_03-28-40.mp4) `28.3MB`
 
 ---
