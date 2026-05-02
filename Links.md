@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 17:13 IR
+- 📱 [MasterDnsVPN-GG-1.0.9-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-arm64-v8a.apk) `13.0MB`
+
+- 📱 [MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk) `12.6MB`
+
+- 📱 [MasterDnsVPN-GG-1.0.9-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-universal.apk) `45.5MB`
+
+---
+
+
 ### 📅 2026-05-02 17:05 IR
 - 🎬 [video_2026-05-02_03-28-40.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/video_2026-05-02_03-28-40.mp4) `28.3MB`
 
