@@ -1,6 +1,12 @@
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
-[ConfigWireguard](https://t.me/ConfigWireguard)
+
+
+### 📅 2026-05-02 17:32 IR
+- 📥 [Shade-1.3.2.dmg](https://github.com/ConfigWireguard/sandbox/raw/main/dl/Shade-1.3.2.dmg) `42.5MB`
+
+---
+
 
 ### 📅 2026-05-02 17:20 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.7.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk) `18.1MB`
